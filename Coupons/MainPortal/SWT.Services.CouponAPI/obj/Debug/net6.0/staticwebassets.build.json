@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "73HyeGz2HQKEWAeVsOrVHtUFphcFPfC391GmrsxeHZ4=",
+  "Source": "SWT.Services.CouponAPI",
+  "BasePath": "_content/SWT.Services.CouponAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

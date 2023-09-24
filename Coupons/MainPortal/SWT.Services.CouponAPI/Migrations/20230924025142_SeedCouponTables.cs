@@ -1,0 +1,55 @@
+﻿using Microsoft.EntityFrameworkCore.Migrations;
+
+#nullable disable
+
+#pragma warning disable CA1814 // Prefer jagged arrays over multidimensional
+
+namespace SWT.Services.CouponAPI.Migrations
+{
+    /// <inheritdoc />
+    public partial class SeedCouponTables : Migration
+    {
+        /// <inheritdoc />
+        protected override void Up(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.AlterColumn<double>(
+                name: "DiscountAmount",
+                table: "Coupons",
+                type: "float",
+                nullable: false,
+                oldClrType: typeof(decimal),
+                oldType: "decimal(18,2)");
+
+            migrationBuilder.InsertData(
+                table: "Coupons",
+                columns: new[] { "CouponId", "CouponName", "DiscountAmount", "MinAmount" },
+                values: new object[,]
+                {
+                    { 1, "10AFF", 1000.0, 10 },
+                    { 2, "10AFC", 2000.0, 10 }
+                });
+        }
+
+        /// <inheritdoc />
+        protected override void Down(MigrationBuilder migrationBuilder)
+        {
+            migrationBuilder.DeleteData(
+                table: "Coupons",
+                keyColumn: "CouponId",
+                keyValue: 1);
+
+            migrationBuilder.DeleteData(
+                table: "Coupons",
+                keyColumn: "CouponId",
+                keyValue: 2);
+
+            migrationBuilder.AlterColumn<decimal>(
+                name: "DiscountAmount",
+                table: "Coupons",
+                type: "decimal(18,2)",
+                nullable: false,
+                oldClrType: typeof(double),
+                oldType: "float");
+        }
+    }
+}
