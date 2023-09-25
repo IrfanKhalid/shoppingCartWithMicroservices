@@ -29,6 +29,10 @@ namespace SWT.Services.CouponAPI.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CouponId"));
 
+                    b.Property<string>("CouponCode")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("CouponName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -47,6 +51,7 @@ namespace SWT.Services.CouponAPI.Migrations
                         new
                         {
                             CouponId = 1,
+                            CouponCode = "AXSDSD",
                             CouponName = "10AFF",
                             DiscountAmount = 1000.0,
                             MinAmount = 10
@@ -54,6 +59,7 @@ namespace SWT.Services.CouponAPI.Migrations
                         new
                         {
                             CouponId = 2,
+                            CouponCode = "SDSDSD",
                             CouponName = "10AFC",
                             DiscountAmount = 2000.0,
                             MinAmount = 10

@@ -21,7 +21,8 @@ namespace SWT.Services.CouponAPI.Data
                  CouponId=1,
                  CouponName="10AFF",
                  DiscountAmount=1000,
-                 MinAmount=10
+                 MinAmount=10,
+                 CouponCode="AXSDSD"
             });
 
             modelBuilder.Entity<Coupon>().HasData(new Coupon
@@ -29,7 +30,8 @@ namespace SWT.Services.CouponAPI.Data
                 CouponId = 2,
                 CouponName = "10AFC",
                 DiscountAmount = 2000,
-                MinAmount = 10
+                MinAmount = 10,
+                CouponCode = "SDSDSD"
             });
 
         }

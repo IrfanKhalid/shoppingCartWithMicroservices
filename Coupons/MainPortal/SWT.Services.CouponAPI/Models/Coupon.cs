@@ -11,5 +11,6 @@ namespace SWT.Services.CouponAPI.Models
         [Required]
         public double DiscountAmount { get; set; }
         public int MinAmount { get; set; }
+        public string CouponCode { get; set; }
     }
 }

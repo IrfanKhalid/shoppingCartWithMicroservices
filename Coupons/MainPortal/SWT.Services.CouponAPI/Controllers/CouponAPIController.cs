@@ -55,5 +55,43 @@ namespace SWT.Services.CouponAPI.Controllers
             }
             return coupon;
         }
+
+        [HttpGet]
+        [Route("GetByCode/{code}")]
+        public ResponseDto<CouponDto> GetByCode(string code)
+        {
+            ResponseDto<CouponDto> coupon = new ResponseDto<CouponDto>();
+            try
+            {
+                coupon.Result = _mapper.Map<CouponDto>(_appDbContext.Coupons.First(x => x.CouponCode.ToLower().Contains(code)));
+                coupon.IsSuccess = true;
+            }
+            catch (Exception ex)
+            {
+                coupon.IsSuccess = false;
+                coupon.Message = ex.Message;
+            }
+            return coupon;
+        }
+
+        [HttpPost]
+        public ResponseDto<CouponDto> AddCoupons([FromBody] CouponDto couponDto)
+        {
+            ResponseDto<CouponDto> coupon = new ResponseDto<CouponDto>();
+            try
+            {
+                var dbmode = _mapper.Map<Coupon>(couponDto);
+                _appDbContext.Add(dbmode);
+                var data= _appDbContext.SaveChanges();
+                coupon.Result = _mapper.Map<CouponDto>(dbmode);
+                coupon.IsSuccess = true;
+            }
+            catch (Exception ex)
+            {
+                coupon.IsSuccess = false;
+                coupon.Message = ex.Message;
+            }
+            return coupon;
+        }
     }
 }

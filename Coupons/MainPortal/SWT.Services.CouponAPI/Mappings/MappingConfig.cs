@@ -6,14 +6,13 @@ namespace SWT.Services.CouponAPI.Mappings
 {
     public class MappingConfig
     {
-        public static MapperConfiguration RegisterMapping()
+        public static MapperConfiguration RegisterMaps()
         {
-            var mapperConfig = new MapperConfiguration(config  => {
-                config.CreateMap<Coupon,CouponDto>().ReverseMap();
-                        
+            var mappingConfig = new MapperConfiguration(config => {
+                config.CreateMap<Coupon, CouponDto>().ReverseMap();
+            
+            
             });
-
-            return mapperConfig;
         }
     }
 }
