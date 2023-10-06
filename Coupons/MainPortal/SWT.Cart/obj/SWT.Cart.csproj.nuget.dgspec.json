@@ -1,34 +1,28 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Microservics\\Coupons\\MainPortal\\SWT.Cart\\SWT.Cart.csproj": {}
+    "D:\\Project\\microservices\\Portal\\shoppingCartWithMicroservices\\Coupons\\MainPortal\\SWT.Cart\\SWT.Cart.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Microservics\\Coupons\\MainPortal\\SWT.Cart\\SWT.Cart.csproj": {
+    "D:\\Project\\microservices\\Portal\\shoppingCartWithMicroservices\\Coupons\\MainPortal\\SWT.Cart\\SWT.Cart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Microservics\\Coupons\\MainPortal\\SWT.Cart\\SWT.Cart.csproj",
+        "projectUniqueName": "D:\\Project\\microservices\\Portal\\shoppingCartWithMicroservices\\Coupons\\MainPortal\\SWT.Cart\\SWT.Cart.csproj",
         "projectName": "SWT.Cart",
-        "projectPath": "D:\\Projects\\Microservics\\Coupons\\MainPortal\\SWT.Cart\\SWT.Cart.csproj",
-        "packagesPath": "C:\\Users\\graymath-ibm-1021\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Microservics\\Coupons\\MainPortal\\SWT.Cart\\obj\\",
+        "projectPath": "D:\\Project\\microservices\\Portal\\shoppingCartWithMicroservices\\Coupons\\MainPortal\\SWT.Cart\\SWT.Cart.csproj",
+        "packagesPath": "C:\\Users\\rfnkh\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\microservices\\Portal\\shoppingCartWithMicroservices\\Coupons\\MainPortal\\SWT.Cart\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\graymath-ibm-1021\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rfnkh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\NugetSources": {},
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://nuget.pkg.github.com/fahad-at-adax/index.json": {},
-          "https://nuget.pkg.github.com/fahad-at-adax/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -62,15 +56,14 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.8, 6.0.8]"
+              "version": "[6.0.13, 6.0.13]"
             }
           ],
           "frameworkReferences": {
@@ -78,7 +71,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
