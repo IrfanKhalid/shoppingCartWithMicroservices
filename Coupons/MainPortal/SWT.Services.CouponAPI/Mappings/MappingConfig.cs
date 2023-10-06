@@ -13,6 +13,7 @@ namespace SWT.Services.CouponAPI.Mappings
             
             
             });
+            return mappingConfig;
         }
     }
 }

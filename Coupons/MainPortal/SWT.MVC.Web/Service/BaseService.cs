@@ -7,18 +7,19 @@ using static SWT.MVC.Web.Utility.Enum;
 
 namespace SWT.MVC.Web.Service
 {
-    public class BaseService<T,K>:IBaseContract<T,K>
+    public class BaseService:IBaseContract
     {       
         private readonly IHttpClientFactory _clientFactory;
         public BaseService(IHttpClientFactory clientFactory)
         {
             _clientFactory = clientFactory;
         }
-        public async Task<ResponseDto<T>> SendAsync(RequestDto<K> requestDto)
+        public async Task<ResponseDto> SendAsync(RequestDto requestDto)
         {
             HttpClient client = _clientFactory.CreateClient("Rest");
             HttpRequestMessage requestMessage = new();
-            requestMessage.Headers.Add("Content-Type", "application/json");
+            client.DefaultRequestHeaders.Accept.
+                Add(new System.Net.Http.Headers.MediaTypeWithQualityHeaderValue("application/json"));
             requestMessage.RequestUri = new Uri( requestDto.RequestUrl);
             if(requestDto.Data != null)
             {
@@ -48,24 +49,24 @@ namespace SWT.MVC.Web.Service
             switch(response.StatusCode)
             {
                 case HttpStatusCode.NotFound:
-                    return new ResponseDto<T>() { IsSuccess=false,Message="Not Found" };
+                    return new ResponseDto() { IsSuccess=false,Message="Not Found" };
                 case HttpStatusCode.Forbidden:
-                    return new ResponseDto<T>() { IsSuccess = false, Message = "Access Denied" };
+                    return new ResponseDto() { IsSuccess = false, Message = "Access Denied" };
                 case HttpStatusCode.Unauthorized:
-                    return new ResponseDto<T>() { IsSuccess = false, Message = "Unauthorized access" };
+                    return new ResponseDto() { IsSuccess = false, Message = "Unauthorized access" };
                 case HttpStatusCode.InternalServerError:
-                    return new ResponseDto<T>() { IsSuccess = false, Message = "Internal Server error" };
+                    return new ResponseDto() { IsSuccess = false, Message = "Internal Server error" };
                 default:
                     var resposeContent =await response.Content.ReadAsStringAsync();
-                    var responseData = JsonConvert.DeserializeObject<ResponseDto<T>>(resposeContent);
-                    return new ResponseDto<T>() { IsSuccess = true, Result = responseData!=null?responseData.Result: default, Message = "Success" };
+                    var responseData = JsonConvert.DeserializeObject<ResponseDto>(resposeContent);
+                    return new ResponseDto() { IsSuccess = true, Result = responseData!=null?responseData.Result: default, Message = "Success" };
             }
 
 
-            throw new NotImplementedException();
+ 
         }
 
-        public Task<ResponseDto<T>> GetAsync(RequestDto<K> requestDto)
+        public Task<ResponseDto> GetAsync(RequestDto requestDto)
         {
             throw new NotImplementedException();
         }

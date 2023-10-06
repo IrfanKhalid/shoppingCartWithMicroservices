@@ -2,9 +2,9 @@
 
 namespace SWT.MVC.Web.Service.Contracts
 {
-    public interface IBaseContract<T,K>
+    public interface IBaseContract
     {
-        Task<ResponseDto<T>> SendAsync(RequestDto<K> requestDto);
-        Task<ResponseDto<T>> GetAsync(RequestDto<K> requestDto);
+        Task<ResponseDto> SendAsync(RequestDto requestDto);
+        Task<ResponseDto> GetAsync(RequestDto requestDto);
     }
 }

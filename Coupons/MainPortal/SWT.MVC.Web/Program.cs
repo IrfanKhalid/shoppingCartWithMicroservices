@@ -10,12 +10,13 @@ builder.Services.AddHttpContextAccessor();
 builder.Services.AddHttpClient();
 builder.Services.AddHttpClient<ICouponContract, CouponService>();
 
-builder.Services.AddTransient<IBaseContract<Object,Object>, BaseService<Object,Object>>();
-builder.Services.AddTransient<ICouponContract, CouponService>();
+builder.Services.AddScoped<IBaseContract, BaseService>();
+builder.Services.AddScoped<ICouponContract, CouponService>();
+Configuration.CouponApiUrl = builder.Configuration["ServiceUrls:CouponAPI"];
 
 var app = builder.Build();
 
-Configuration.CouponApiUrl = builder.Configuration["ServiceUrls:CouponAPI"];
+
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {

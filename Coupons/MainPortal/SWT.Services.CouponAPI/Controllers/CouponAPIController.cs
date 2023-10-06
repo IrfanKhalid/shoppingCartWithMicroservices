@@ -7,7 +7,7 @@ using SWT.Services.CouponAPI.Models.Dto;
 
 namespace SWT.Services.CouponAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/coupon")]
     [ApiController]
     public class CouponAPIController : ControllerBase
     {
