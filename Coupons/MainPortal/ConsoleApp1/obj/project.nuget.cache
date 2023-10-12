@@ -1,22 +1,22 @@
 {
   "version": 2,
-  "dgSpecHash": "gg7qkjdd5aafQ9dV6oOTeX9eh/bHhH3KCIc/PYtggCuu0c4+xsSH3PXJhX2LAHwTVcxwPQHG+kRsj10pRb0/FQ==",
+  "dgSpecHash": "b3284oxPYEB5MzMz8/Nqm7PM2DbZL1NgWEmFrSINDm59M4L5TwXvu7EPRpHqds/sGJxttElnOLR3zhVOYPWqJA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Microservics\\Coupons\\MainPortal\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "D:\\Project\\microservices\\Portal\\shoppingCartWithMicroservices\\Coupons\\MainPortal\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\graymath-ibm-1021\\.nuget\\packages\\akka\\1.5.13\\akka.1.5.13.nupkg.sha512",
-    "C:\\Users\\graymath-ibm-1021\\.nuget\\packages\\microsoft.extensions.objectpool\\7.0.10\\microsoft.extensions.objectpool.7.0.10.nupkg.sha512",
-    "C:\\Users\\graymath-ibm-1021\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
-    "C:\\Users\\graymath-ibm-1021\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\graymath-ibm-1021\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
-    "C:\\Users\\graymath-ibm-1021\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
-    "C:\\Users\\graymath-ibm-1021\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
-    "C:\\Users\\graymath-ibm-1021\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
-    "C:\\Users\\graymath-ibm-1021\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
-    "C:\\Users\\graymath-ibm-1021\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
-    "C:\\Users\\graymath-ibm-1021\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
-    "C:\\Users\\graymath-ibm-1021\\.nuget\\packages\\system.threading.channels\\5.0.0\\system.threading.channels.5.0.0.nupkg.sha512",
-    "C:\\Users\\graymath-ibm-1021\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+    "C:\\Users\\rfnkh\\.nuget\\packages\\akka\\1.5.13\\akka.1.5.13.nupkg.sha512",
+    "C:\\Users\\rfnkh\\.nuget\\packages\\microsoft.extensions.objectpool\\7.0.10\\microsoft.extensions.objectpool.7.0.10.nupkg.sha512",
+    "C:\\Users\\rfnkh\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\rfnkh\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\rfnkh\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
+    "C:\\Users\\rfnkh\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
+    "C:\\Users\\rfnkh\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\rfnkh\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\rfnkh\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\rfnkh\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\rfnkh\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\rfnkh\\.nuget\\packages\\system.threading.channels\\5.0.0\\system.threading.channels.5.0.0.nupkg.sha512",
+    "C:\\Users\\rfnkh\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1395,14 +1395,10 @@
       "Newtonsoft.Json/13.0.3": {
         "type": "package",
         "compile": {
-          "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/Newtonsoft.Json.dll": {}
         },
         "runtime": {
-          "lib/net6.0/Newtonsoft.Json.dll": {
-            "related": ".xml"
-          }
+          "lib/net6.0/Newtonsoft.Json.dll": {}
         }
       },
       "NuGet.Common/6.6.1": {
@@ -9684,34 +9680,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\graymath-ibm-1021\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\rfnkh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Microservics\\Coupons\\MainPortal\\SWT.MVC.Web\\SWT.MVC.Web.csproj",
+      "projectUniqueName": "D:\\Project\\microservices\\Portal\\shoppingCartWithMicroservices\\Coupons\\MainPortal\\SWT.MVC.Web\\SWT.MVC.Web.csproj",
       "projectName": "SWT.MVC.Web",
-      "projectPath": "D:\\Projects\\Microservics\\Coupons\\MainPortal\\SWT.MVC.Web\\SWT.MVC.Web.csproj",
-      "packagesPath": "C:\\Users\\graymath-ibm-1021\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Microservics\\Coupons\\MainPortal\\SWT.MVC.Web\\obj\\",
+      "projectPath": "D:\\Project\\microservices\\Portal\\shoppingCartWithMicroservices\\Coupons\\MainPortal\\SWT.MVC.Web\\SWT.MVC.Web.csproj",
+      "packagesPath": "C:\\Users\\rfnkh\\.nuget\\packages\\",
+      "outputPath": "D:\\Project\\microservices\\Portal\\shoppingCartWithMicroservices\\Coupons\\MainPortal\\SWT.MVC.Web\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\graymath-ibm-1021\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rfnkh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\NugetSources": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.pkg.github.com/fahad-at-adax/index.json": {},
-        "https://nuget.pkg.github.com/fahad-at-adax/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -9748,8 +9737,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -9761,7 +9749,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.308\\RuntimeIdentifierGraph.json"
       }
     }
   }

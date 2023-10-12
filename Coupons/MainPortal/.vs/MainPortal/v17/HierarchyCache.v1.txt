@@ -1,0 +1,435 @@
+﻿++Solution 'MainPortal' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:MainPortal.sln
+++Gateway
+i:{00000000-0000-0000-0000-000000000000}:Gateway
+++Integration
+i:{00000000-0000-0000-0000-000000000000}:Integration
+++Services
+i:{00000000-0000-0000-0000-000000000000}:Services
+++SWT.Services.CouponAPI
+i:{bb870fea-f11c-4d81-b5c3-f5cba648511a}:SWT.Services.CouponAPI
+++Connected Services 
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:>2613
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:>2612
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:>2614
+++Dependencies
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:>2611
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:>2610
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:>2609
+++Properties
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\properties\
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\properties\
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\properties\
+++launchSettings.json
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\properties\launchsettings.json
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\properties\launchsettings.json
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\properties\launchsettings.json
+++Controllers
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\controllers\
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\controllers\
+++Data
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\data\
+++Mappings
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\mappings\
+++Migrations
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\migrations\
+++Models
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\models\
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\models\
+++appsettings.json
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\appsettings.json
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\appsettings.json
+++appsettings.Development.json
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\appsettings.development.json
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\appsettings.development.json
+++Program.cs
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\program.cs
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\program.cs
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\program.cs
+++No service dependencies discovered
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:>2616
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:>2615
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:>2617
+++Analyzers
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:analyzers
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:analyzers
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:analyzers
+++Frameworks
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:frameworks
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:frameworks
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:frameworks
+++Packages
+++CouponAPIController.cs
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\controllers\couponapicontroller.cs
+++AppDbContext.cs
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\data\appdbcontext.cs
+++MappingConfig.cs
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\mappings\mappingconfig.cs
+++20230924023111_AddCouponToDb.cs
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\migrations\20230924023111_addcoupontodb.cs
+++20230924025142_SeedCouponTables.cs
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\migrations\20230924025142_seedcoupontables.cs
+++20230924150147_v3.cs
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\migrations\20230924150147_v3.cs
+++AppDbContextModelSnapshot.cs
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\migrations\appdbcontextmodelsnapshot.cs
+++Dto
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\models\dto\
+++Coupon.cs
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\models\coupon.cs
+++Microsoft.AspNetCore.Analyzers
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.13\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.13\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.13\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.13\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+++Microsoft.Extensions.Logging.Generators
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:c:\users\rfnkh\.nuget\packages\microsoft.extensions.logging.abstractions\7.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.13\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:c:\users\rfnkh\.nuget\packages\system.text.json\7.0.0\analyzers\dotnet\roslyn4.0\cs\system.text.json.sourcegeneration.dll
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.13\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.13\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\microsoft.aspnetcore.app
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\microsoft.netcore.app
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\microsoft.netcore.app
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\microsoft.netcore.app
+++AutoMapper (12.0.1)
+++AutoMapper.Extensions.Microsoft.DependencyInjection (12.0.1)
+++Microsoft.AspNetCore.Authentication.JwtBearer (6.0.22)
+++Microsoft.EntityFrameworkCore (7.0.11)
+++Microsoft.EntityFrameworkCore.SqlServer (7.0.11)
+++Microsoft.EntityFrameworkCore.Tools (7.0.11)
+++Swashbuckle.AspNetCore (6.2.3)
+++20230924023111_AddCouponToDb.Designer.cs
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\migrations\20230924023111_addcoupontodb.designer.cs
+++20230924025142_SeedCouponTables.Designer.cs
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\migrations\20230924025142_seedcoupontables.designer.cs
+++20230924150147_v3.Designer.cs
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\migrations\20230924150147_v3.designer.cs
+++CouponDto.cs
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\models\dto\coupondto.cs
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\models\coupondto.cs
+++ResponseDto.cs
+i:{d0ef75b1-f74e-41de-8a4a-3328b9ea4e39}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.services.couponapi\models\dto\responsedto.cs
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\models\responsedto.cs
+++Frontend
+i:{00000000-0000-0000-0000-000000000000}:Frontend
+++Asp MVC
+i:{5e0344ad-85f1-40ee-a2a2-9c9d62047fca}:Asp MVC
+++SWT.MVC.Web
+i:{69fd31a3-35cd-4f82-ad54-a393cc219318}:SWT.MVC.Web
+++wwwroot
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\
+++css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\css\
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\open-iconic\font\css\
+++site.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\css\site.css
+++js
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\js\
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\
+++bootstrap
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\bootstrap\
+++dist
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\jquery\dist\
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\jquery-validation\dist\
+++bootstrap.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++LICENSE
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\license
+++jquery
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\jquery\
+++jquery-validation
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\jquery-validation-unobtrusive\
+++favicon.ico
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\favicon.ico
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\favicon.ico
+++ErrorViewModel.cs
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\models\errorviewmodel.cs
+++RequestDto.cs
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\models\requestdto.cs
+++Service
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\service\
+++Contracts
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\service\contracts\
+++IBaseContract.cs
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\service\contracts\ibasecontract.cs
+++ICouponContract.cs
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\service\contracts\icouponcontract.cs
+++BaseService.cs
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\service\baseservice.cs
+++CouponService.cs
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\service\couponservice.cs
+++Utility
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\utility\
+++Configuration.cs
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\utility\configuration.cs
+++Enum.cs
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\utility\enum.cs
+++Views
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\views\
+++Home
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\views\home\
+++Index.cshtml
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\views\home\index.cshtml
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\views\coupon\index.cshtml
+++Privacy.cshtml
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\views\home\privacy.cshtml
+++Shared
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\views\shared\
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\shared\
+++_ViewImports.cshtml
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\views\_viewstart.cshtml
+++site.js
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\js\site.js
+++bootstrap.css.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\bootstrap\bootstrap.min.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.js
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++LICENSE.txt
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\jquery\license.txt
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++HomeController.cs
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\controllers\homecontroller.cs
+++_Layout.cshtml
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\views\shared\error.cshtml
+++Newtonsoft.Json (13.0.3)
+++bootstrap.min.css.map
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\bootstrap\bootstrap.min.css.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.js
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++_Layout.cshtml.css
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\views\shared\_layout.cshtml.css
+++bootstrap.rtl.min.css.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.js.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++jquery.min.js
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.bundle.min.js.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++jquery.min.map
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\wwwroot\lib\jquery\dist\jquery.min.map
+++Blazor
+i:{5e0344ad-85f1-40ee-a2a2-9c9d62047fca}:Blazor
+++SWT.Cart
+i:{94e9d837-891b-4415-b5c6-a3d09ced3669}:SWT.Cart
+++Pages
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\pages\
+++_Imports.razor
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\_imports.razor
+++App.razor
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\app.razor
+++sample-data
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\sample-data\
+++icon-192.png
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\icon-192.png
+++icon-512.png
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\icon-512.png
+++index.html
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\index.html
+++manifest.json
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\manifest.json
+++service-worker.js
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\service-worker.js
+++Counter.razor
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\pages\counter.razor
+++FetchData.razor
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\pages\fetchdata.razor
+++Index.razor
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\pages\index.razor
+++MainLayout.razor
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\shared\mainlayout.razor
+++NavMenu.razor
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\shared\navmenu.razor
+++SurveyPrompt.razor
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\shared\surveyprompt.razor
+++ILLink.CodeFixProvider
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\analyzers\illink.codefixprovider.dll
+++ILLink.RoslynAnalyzer
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\analyzers\illink.roslynanalyzer.dll
+++Microsoft.AspNetCore.Components.WebAssembly (6.0.8)
+++Microsoft.AspNetCore.Components.WebAssembly.DevServer (6.0.8)
+++open-iconic
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\open-iconic\
+++app.css
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\app.css
+++weather.json
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\sample-data\weather.json
+++service-worker.published.js
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\service-worker.published.js
+++MainLayout.razor.css
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\shared\mainlayout.razor.css
+++NavMenu.razor.css
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\shared\navmenu.razor.css
+++font
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\open-iconic\font\
+++FONT-LICENSE
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\open-iconic\font-license
+++ICON-LICENSE
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\open-iconic\icon-license
+++README.md
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\open-iconic\readme.md
+++fonts
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\open-iconic\font\fonts\
+++open-iconic-bootstrap.min.css
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\open-iconic\font\css\open-iconic-bootstrap.min.css
+++open-iconic.eot
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\open-iconic\font\fonts\open-iconic.eot
+++open-iconic.otf
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\open-iconic\font\fonts\open-iconic.otf
+++open-iconic.svg
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\open-iconic\font\fonts\open-iconic.svg
+++open-iconic.ttf
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\open-iconic\font\fonts\open-iconic.ttf
+++open-iconic.woff
+i:{76fb5e3c-266c-4900-b14c-73000b15a007}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.cart\wwwroot\css\open-iconic\font\fonts\open-iconic.woff
+++CouponController.cs
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\controllers\couponcontroller.cs
+++hd3iqew3.hzn~
+++Coupon
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\views\coupon\
+++CouponIndex.razor
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.16)
+++Swashbuckle.AspNetCore (6.5.0)
+++MessagePackAnalyzer
+++Microsoft.CodeAnalysis.Analyzers
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+++CouponindexView.cshtml
+++CouponCreate.cshtml
+i:{1ccba1bd-d96e-44cd-82e4-77bd6302234a}:d:\project\microservices\portal\shoppingcartwithmicroservices\coupons\mainportal\swt.mvc.web\views\coupon\couponcreate.cshtml
