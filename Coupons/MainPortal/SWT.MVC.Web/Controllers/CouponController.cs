@@ -20,5 +20,10 @@ namespace SWT.MVC.Web.Controllers
                 model = JsonConvert.DeserializeObject<List<CouponDto>>(responseDto.Result?.ToString());
             return View(model); 
         }
+
+        public async  Task<IActionResult> CouponCreate()
+        {
+            return View();
+        }
     }
 }

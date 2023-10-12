@@ -7,23 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="Views\Coupon\CouponIndex.razor" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.16" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <UpToDateCheckInput Remove="Views\Coupon\CouponIndex.razor" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <_ContentIncludedByDefault Remove="Views\Coupon\CouponIndex.razor" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="Views\Coupon\CouponIndex.razor" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
   </ItemGroup>
 
 </Project>
