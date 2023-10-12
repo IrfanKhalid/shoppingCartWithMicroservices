@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\Microservics\\Coupons\\MainPortal\\SWT.MVC.Web\\SWT.MVC.Web.csproj": {}
+    "D:\\Projects\\Microservics\\Coupons\\MainPortal\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\Microservics\\Coupons\\MainPortal\\SWT.MVC.Web\\SWT.MVC.Web.csproj": {
+    "D:\\Projects\\Microservics\\Coupons\\MainPortal\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\Microservics\\Coupons\\MainPortal\\SWT.MVC.Web\\SWT.MVC.Web.csproj",
-        "projectName": "SWT.MVC.Web",
-        "projectPath": "D:\\Projects\\Microservics\\Coupons\\MainPortal\\SWT.MVC.Web\\SWT.MVC.Web.csproj",
+        "projectUniqueName": "D:\\Projects\\Microservics\\Coupons\\MainPortal\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "D:\\Projects\\Microservics\\Coupons\\MainPortal\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\graymath-ibm-1021\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\Microservics\\Coupons\\MainPortal\\SWT.MVC.Web\\obj\\",
+        "outputPath": "D:\\Projects\\Microservics\\Coupons\\MainPortal\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -46,17 +46,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+            "Akka": {
               "target": "Package",
-              "version": "[6.0.16, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[13.0.3, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.5.0, )"
+              "version": "[1.5.13, )"
             }
           },
           "imports": [
@@ -71,9 +63,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
