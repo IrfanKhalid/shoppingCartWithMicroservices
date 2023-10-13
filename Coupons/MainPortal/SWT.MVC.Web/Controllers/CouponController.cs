@@ -25,5 +25,29 @@ namespace SWT.MVC.Web.Controllers
         {
             return View();
         }
+
+        [HttpPost]
+        public async Task<IActionResult> CreateCoupon(CouponDto model)
+        {
+            if (ModelState.IsValid)
+            {
+                ResponseDto responseDto = await _couponService.AddCouponAsync(model);
+                if (responseDto != null && responseDto.IsSuccess)
+                    return RedirectToAction(nameof(Index));
+
+            }
+            return View(model);
+        }
+
+        public async Task<IActionResult> DeleteCoupon(int couponid)
+        {
+            ResponseDto responseDto = await _couponService.GetCouponByIdAsync(couponid);
+            if (responseDto != null && responseDto.IsSuccess)
+            {
+                CouponDto ? model=JsonConvert.DeserializeObject<CouponDto>(responseDto.Result?.ToString()) ?? null;
+                return View(model);
+            }
+            return NotFound();
+        }
     }
 }
