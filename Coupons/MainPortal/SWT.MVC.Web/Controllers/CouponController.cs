@@ -39,7 +39,7 @@ namespace SWT.MVC.Web.Controllers
             return View(model);
         }
 
-        public async Task<IActionResult> DeleteCoupon(int couponid)
+        public async Task<IActionResult> DeleteCouponView(int couponid)
         {
             ResponseDto responseDto = await _couponService.GetCouponByIdAsync(couponid);
             if (responseDto != null && responseDto.IsSuccess)
@@ -49,5 +49,18 @@ namespace SWT.MVC.Web.Controllers
             }
             return NotFound();
         }
+
+        public async Task<IActionResult> DeleteCoupon(CouponDto couponDto)
+        {
+            ResponseDto? responseDto = await _couponService.DeleteCouponAsync(couponDto.CouponId);
+            if (responseDto != null && responseDto.IsSuccess)
+                return RedirectToAction(nameof(Index));
+            return View(couponDto);
+        }
+
     }
+
+
+
+
 }

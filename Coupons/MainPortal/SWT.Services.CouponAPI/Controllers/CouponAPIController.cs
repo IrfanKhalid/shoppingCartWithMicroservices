@@ -93,5 +93,25 @@ namespace SWT.Services.CouponAPI.Controllers
             }
             return coupon;
         }
+
+        [HttpDelete]
+        [Route("{id:int}")]
+        public ResponseDto<CouponDto> Delete(int id)
+        {
+            ResponseDto<CouponDto> coupon = new ResponseDto<CouponDto>();
+            try
+            {
+                var result = _appDbContext.Coupons.First(x => x.CouponId == id);
+                _appDbContext.Remove(result);
+                _appDbContext.SaveChangesAsync();
+                coupon.IsSuccess = true;
+            }
+            catch (Exception ex)
+            {
+                coupon.IsSuccess = false;
+                coupon.Message = ex.Message;
+            }
+            return coupon;
+        }
     }
 }

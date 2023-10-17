@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XtVCRCUQ3mk5cs0sfFnRj3gRbIyp/IIc7yOCrxC9cD3ogR2sy5LKPbtAK+8sjnk/qGXusOPM8zRq6WwKsh2MBQ==",
+  "dgSpecHash": "pCEL3/ZoGuow5IsZNtvKkJOFhmSl+p5JR5Qas4KbEYEs4f5/IjCH3kauazAtwo5cJYiuBDtHbaJ0XTPtfppJzA==",
   "success": true,
   "projectFilePath": "D:\\Project\\microservices\\Portal\\shoppingCartWithMicroservices\\Coupons\\MainPortal\\SWT.MVC.Web\\SWT.MVC.Web.csproj",
   "expectedPackageFiles": [
@@ -54,6 +54,7 @@
     "C:\\Users\\rfnkh\\.nuget\\packages\\humanizer.core.zh-cn\\2.14.1\\humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "C:\\Users\\rfnkh\\.nuget\\packages\\humanizer.core.zh-hans\\2.14.1\\humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "C:\\Users\\rfnkh\\.nuget\\packages\\humanizer.core.zh-hant\\2.14.1\\humanizer.core.zh-hant.2.14.1.nupkg.sha512",
+    "C:\\Users\\rfnkh\\.nuget\\packages\\jquery\\1.6.3\\jquery.1.6.3.nupkg.sha512",
     "C:\\Users\\rfnkh\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\rfnkh\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
     "C:\\Users\\rfnkh\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
@@ -198,7 +199,8 @@
     "C:\\Users\\rfnkh\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\rfnkh\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\rfnkh\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\rfnkh\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\rfnkh\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\rfnkh\\.nuget\\packages\\toastr\\2.1.1\\toastr.2.1.1.nupkg.sha512"
   ],
   "logs": []
 }
