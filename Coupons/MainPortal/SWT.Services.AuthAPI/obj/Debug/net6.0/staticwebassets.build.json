@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4QRpG3c9llQdF9eh+5q1DY45Neh9w2epN/6Q4uvRgnk=",
+  "Source": "SWT.Services.AuthAPI",
+  "BasePath": "_content/SWT.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
