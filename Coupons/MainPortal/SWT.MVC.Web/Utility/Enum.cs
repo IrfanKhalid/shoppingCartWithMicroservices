@@ -9,5 +9,12 @@
             PUT,
             DELETE,
         }
+
+        public enum Role
+        {
+            Admin=1   ,
+            NormalUser=2,
+            Customer=3 ,
+        }
     }
 }

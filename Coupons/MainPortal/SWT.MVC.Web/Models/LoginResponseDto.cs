@@ -1,8 +1,10 @@
-﻿namespace SWT.Services.AuthAPI.Models.Dto
+﻿using SWT.MVC.Web.Models;
+
+namespace SWT.Services.AuthAPI.Models.Dto
 {
     public class LoginResponseDto
     {
-        public UserDTO User { get; set; }
+        public UserDto User { get; set; }
         public string Token { get; set; }
     }
 }
